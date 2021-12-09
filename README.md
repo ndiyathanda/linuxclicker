@@ -6,7 +6,7 @@ Clicker made for minecraft pvp. Tested on Linux only.
 
 # Example keybinds
 <br>
-shift+s
+shift + s
 <br>
 ctrl + r
 <br>
