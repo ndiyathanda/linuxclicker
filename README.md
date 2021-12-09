@@ -1,5 +1,5 @@
 # Auto Clicker
-Clicker made for minecraft pvp with chat binds. Tested on Linux only.
+Clicker made for minecraft pvp. Tested on Linux only.
 
 # Screenshots
 ![](Screenshot_62.png)
