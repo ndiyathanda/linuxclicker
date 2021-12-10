@@ -13,6 +13,10 @@ ctrl + r
 ctrl + space
 <br>
 k
+<br>
+IMPORTANT
+<br>
+Dont use ctrl + 4 as keybinds bcs it closes program idk why but its a feature xD
 
 # Early Access
 This software is still in the early access and can be bugged!
