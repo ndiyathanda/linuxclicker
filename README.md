@@ -17,6 +17,8 @@ k
 IMPORTANT
 <br>
 Dont use ctrl + 4 as keybind bcs it close program(on Linux). 
+<br>
+Before starting clicker make sure u have blank config.txt file!
 
 # Early Access
 This software is still in the early access and can be bugged!
