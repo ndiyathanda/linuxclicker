@@ -20,8 +20,8 @@ Dont use ctrl + 4 as keybind bcs it close program(on Linux).
 
 # Early Access
 This software is still in the early access and can be bugged!
-## Changelog
-# Version 0.1.1
+# Changelog
+## Version 0.1.1
 Now you can save your config.
 <br>
 Once clicker starts it loads config from config.txt file
