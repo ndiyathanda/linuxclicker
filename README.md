@@ -27,3 +27,5 @@ Now you can save your config.
 Once clicker starts it loads config from config.txt file
 <br>
 Fixed custombind 4 bug
+<br>
+Custom bind entry from width 5 to 9
